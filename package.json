@@ -1,0 +1,20 @@
+{
+  "name": "window-manipulation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdulvp/window-manipulation.git"
+  },
+  "author": "pdulvp",
+  "license": "ISC",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/pdulvp/window-manipulation/issues"
+  },
+  "homepage": "https://github.com/pdulvp/window-manipulation#readme"
+}
